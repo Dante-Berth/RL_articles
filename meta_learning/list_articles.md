@@ -70,3 +70,6 @@ Offline Actor-Critic Methods with Normalization: This approach normalizes the of
 Conclusion
 
 Offline RL algorithms have the potential to revolutionize the field of RL by enabling the learning of robust policies from fixed datasets. While there are still challenges to be addressed, recent advances in offline RL have shown promising results. As the field continues to evolve, we can expect to see more sophisticated algorithms and applications of offline RL in various domains.
+
+## DEMONSTRATION-REGULARIZED RL
+https://arxiv.org/pdf/2310.17303
