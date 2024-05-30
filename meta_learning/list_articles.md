@@ -71,5 +71,16 @@ Conclusion
 
 Offline RL algorithms have the potential to revolutionize the field of RL by enabling the learning of robust policies from fixed datasets. While there are still challenges to be addressed, recent advances in offline RL have shown promising results. As the field continues to evolve, we can expect to see more sophisticated algorithms and applications of offline RL in various domains.
 
-## DEMONSTRATION-REGULARIZED RL
-https://arxiv.org/pdf/2310.17303
+## [DEMONSTRATION-REGULARIZED RL](https://arxiv.org/pdf/2310.17303)
+
+## [MOPO: Model-based offline Policy Optimization](https://proceedings.neurips.cc/paper/2020/file/a322852ce0df73e204b7e67cbbef0d0a-Paper.pdf)
+
+## [COMBO: Conservative Offline Model-Based Policy Optimization](https://proceedings.neurips.cc/paper/2021/file/f29a179746902e331572c483c45e5086-Paper.pdf)
+
+## [Robust Reinforcement Learning using Offline Data](https://proceedings.neurips.cc/paper_files/paper/2022/file/d01bda31bbcd780774ff15b534e03c40-Paper-Conference.pdf)
+
+## [A Closer Look at Offline RL Agents](https://proceedings.neurips.cc/paper_files/paper/2022/file/3908cadfcc99db12001eafb1207353e9-Paper-Conference.pdf)
+
+## [Active Offline Policy Selection](https://proceedings.neurips.cc/paper_files/paper/2021/file/cec2346566ba8ecd04bfd992fd193fb3-Paper.pdf)
+
+## [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/34f98c7c5d7063181da890ea8d25265a-Paper.pdf)
