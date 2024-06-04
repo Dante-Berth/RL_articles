@@ -40,7 +40,8 @@ Meta Reinforcement Learning is a promising paradigm that enables agents to learn
 
 # Offline/Online Reinforcement Learning
 
-## Offline
+[Excellent article](https://arxiv.org/pdf/2201.05433) to sum up Offline algorithms
+I am lazy prefer to see [videos](https://slideslive.com/38935785/offline-reinforcement-learning-from-algorithms-to-practical-challenges) 
 [offline_tuto](https://arxiv.org/pdf/2005.01643)
 
 Offline reinforcement learning (RL) is a paradigm that learns from a fixed dataset of previously collected interactions, without requiring additional online data collection. This approach is particularly appealing for real-world applications where interacting with the environment is costly, dangerous, or infeasible. In this answer, we will provide an overview of offline learning algorithms in RL.
