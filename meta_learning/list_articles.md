@@ -87,3 +87,9 @@ Offline RL algorithms have the potential to revolutionize the field of RL by ena
 ## [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/34f98c7c5d7063181da890ea8d25265a-Paper.pdf)
 
 ## [AWAC](https://arxiv.org/pdf/2006.09359)
+
+## [Survery Offline RL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078377)
+
+## [IQL](https://arxiv.org/pdf/2110.06169)
+
+## [CQL](https://arxiv.org/pdf/2006.04779)
