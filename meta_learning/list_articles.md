@@ -93,3 +93,20 @@ Offline RL algorithms have the potential to revolutionize the field of RL by ena
 ## [IQL](https://arxiv.org/pdf/2110.06169)
 
 ## [CQL](https://arxiv.org/pdf/2006.04779)
+
+https://proceedings.neurips.cc/paper_files/paper/2022/hash/ba1c5356d9164bb64c446a4b690226b0-Abstract-Conference.html
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/62d2cec62b7fd46dd35fa8f2d4aeb52d-Abstract-Datasets_and_Benchmarks.html
+https://proceedings.neurips.cc/paper_files/paper/2022/hash/0b5669c3b07bb8429af19a7919376ff5-Abstract-Conference.html
+https://proceedings.neurips.cc/paper/2021/hash/713fd63d76c8a57b16fc433fb4ae718a-Abstract.html
+https://www.jair.org/index.php/jair/article/view/14174
+https://proceedings.neurips.cc/paper_files/paper/2023/hash/c44a04289beaf0a7d968a94066a1d696-Abstract-Conference.html
+https://arxiv.org/abs/2110.06169
+https://arxiv.org/abs/2003.09398
+https://arxiv.org/abs/2301.02328v2
+https://paperswithcode.com/task/offline-rl
+https://github.com/yihaosun1124/OfflineRL-Kit
+
+
+https://paperswithcode.com/task/offline-rl
+https://github.com/yihaosun1124/OfflineRL-Kit
+https://ieeexplore.ieee.org/abstract/document/10078377
