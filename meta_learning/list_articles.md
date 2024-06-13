@@ -1,43 +1,3 @@
-# Meta learning
-
-## Meta RL
-[meta_reinforcement_learning](https://lilianweng.github.io/posts/2019-06-23-meta-rl/)
-
-Meta reinforcement learning
-Meta Reinforcement Learning (Meta-RL) is a paradigm that enables artificial agents to learn a general strategy for learning new tasks quickly and efficiently. This is achieved by training a model on a variety of tasks, allowing it to learn a meta-strategy that can be applied to new, unseen tasks.
-
-Key Concepts:
-
-Meta-learning: The process of learning a learning strategy that can be applied to new tasks.
-Reinforcement Learning: The process of learning through trial and error by interacting with an environment and receiving rewards or penalties.
-Meta-RL: The combination of meta-learning and reinforcement learning, where the goal is to learn a meta-strategy that can be applied to new tasks.
-How Meta-RL Works:
-
-Task Distribution: A set of tasks is defined, and the agent is trained on a subset of these tasks.
-Meta-Strategy: The agent learns a meta-strategy that can be applied to new tasks, by optimizing its learning process across the task distribution.
-New Task: The agent is presented with a new, unseen task, and applies the learned meta-strategy to learn the new task quickly and efficiently.
-Advantages:
-
-Efficient Learning: Meta-RL enables agents to learn new tasks quickly and efficiently, without requiring extensive re-training.
-Generalization: Meta-RL agents can generalize to new tasks and environments, by leveraging the knowledge gained from previous tasks.
-Flexibility: Meta-RL agents can adapt to changing task distributions and environments, by adjusting their meta-strategy accordingly.
-Applications:
-
-Robotics: Meta-RL can be used to train robots to learn new tasks quickly and efficiently, such as grasping and manipulation.
-Game Playing: Meta-RL can be used to train agents to learn new games and adapt to changing game dynamics.
-Recommendation Systems: Meta-RL can be used to train recommendation systems to learn new user preferences and adapt to changing user behavior.
-Challenges:
-
-Curriculum Learning: Designing a curriculum of tasks that can effectively train a meta-RL agent.
-Meta-Strategy Optimization: Optimizing the meta-strategy to balance exploration and exploitation across tasks.
-Transfer Learning: Transferring knowledge from one task to another, while adapting to new tasks and environments.
-Conclusion:
-
-Meta Reinforcement Learning is a promising paradigm that enables agents to learn a general strategy for learning new tasks quickly and efficiently. By understanding the key concepts, how it works, advantages, applications, and challenges, we can better appreciate the potential of Meta-RL in various domains.
-## MAML Implementation 
-[pytorch_rl_maml](https://github.com/tristandeleu/pytorch-maml-rl/tree/master)
-
-
 # Offline/Online Reinforcement Learning
 
 [Excellent article](https://arxiv.org/pdf/2201.05433) to sum up Offline algorithms
@@ -86,7 +46,6 @@ Offline RL algorithms have the potential to revolutionize the field of RL by ena
 
 ## [Bellman-consistent Pessimism for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2021/file/34f98c7c5d7063181da890ea8d25265a-Paper.pdf)
 
-## [AWAC](https://arxiv.org/pdf/2006.09359)
 
 ## [Survery Offline RL](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10078377)
 
